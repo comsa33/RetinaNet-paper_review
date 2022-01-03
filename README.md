@@ -7,3 +7,5 @@
 
 - What is Anchor Box?
   - https://yhu0409.tistory.com/2 
+- What is 1 stage detector?
+  - https://chacha95.github.io/2020-02-26-Object-Detection3/ 
